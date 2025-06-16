@@ -13,6 +13,11 @@ header {
     background: #406C39;
 }
 
+#header {
+    color: #ffff00;
+    background: #406C39;
+}
+
 .content {
     max-width: 60em;
     margin: auto;
